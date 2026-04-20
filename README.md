@@ -7,6 +7,12 @@ Welcome to my digital portfolio for PRP37XS Project Presentation 3.
 - [Portfolio Website](https://abongilealc.github.io/portfolio/) — Live portfolio on GitHub Pages
 - [Mock Interview Video](#) — Link to my mock interview video
 
+## Reflections
+
+- [Reflection: Coding in Markdown](./reflections/markdown-coding.md)
+- [Reflection: Mock Interview Video](./reflections/mock-interview.md)
+- [Reflection: GitHub Pages](./reflections/github-pages.md)
+
 ## About Me
 Third-year IT Software Development student at CPUT.
 Seeking WIL placement from July 2026.
